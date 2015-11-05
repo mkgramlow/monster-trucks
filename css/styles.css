@@ -1,0 +1,47 @@
+/*Nav*/
+
+li {
+    display: inline-block;
+}
+
+a:link {
+    color: darkgreen;
+    padding: 90px;
+    }
+
+a:hover {
+color: blue;
+}
+
+/*header*/
+h1 {
+    color: darkgreen;
+    margin: 1px;
+    font-size: 90px;      
+}
+
+a {
+    style: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+
+body {
+    background-image: url("../img/dirty_old_shirt.png"); }
+    
+    p, blockquote {
+/*    font-family: 'Vollkorn', serif;    */
+}
+
+p {
+color: green;
+}
+
+blockquote {
+    font-size: 2em;
+    padding: 0 3em;
+    text-align: center;
+}
